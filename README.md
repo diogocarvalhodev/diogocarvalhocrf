@@ -1,86 +1,44 @@
-<!-- Profile Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diogocarvalhocrf&label=Profile+Views&color=blue" alt="Profile Views"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=diogocarvalhocrf&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocarvalhocrf&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+# Hi there, I'm Diogo Carvalho! 👋
+### Computer Engineer | Edge AI & Industrial Observability Specialist
 
-# 👋 Olá! Eu sou o Diogo Carvalho
+I am a Computer Engineer (Class of 2025) bridging the gap between **Operational Technology (OT)** and **Modern Software Engineering**. My focus is on building robust, scalable solutions for critical environments, from Edge AI surveillance to large-scale infrastructure monitoring.
 
-🎓 Estudante de **Engenharia da Computação** (último período)  
-🐍 Desenvolvedor Backend Júnior focado em **Python, APIs, Banco de Dados e Automação**  
-🔒 Interesse também por **Infraestrutura, Redes e Cibersegurança**
+🌍 **Base:** Brazil (Open to Relocation/Remote)
+🚀 **Focus:** Industrial Automation, Computer Vision, Reliability Engineering (SRE).
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+### 🛠️ Technical Arsenal
 
-**Backend & Programação**
-- Python • Flask • Django (conceitos)
-- Programação Orientada a Objetos
-- Automação e scripts
-
-**Banco de Dados**
-- MySQL • SQLite
-
-**Infraestrutura & Sistemas**
-- Linux • Redes • Cibersegurança
-- Shell Script • Monitoramento
-- Docker (básico)
-
-**Ferramentas**
-- Git • Bash • NVRs • Servidores
+| Core Stack | Observability & Infra | Tools & OS |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
+| ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) | ![Zabbix](https://img.shields.io/badge/Zabbix-D60000?logo=zabbix&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
 
 ---
 
-## 🧪 Projetos em Destaque
+### 📂 Engineering Case Studies (Proprietary Projects)
 
-### 📌 CFTV Monitor Bot
-Automação com Python para monitoramento e integração com sistemas de vigilância.  
-✔ Integração com dispositivos  
-✔ Uso de bibliotecas Python  
-✔ Execução contínua e alertas
+Since my work involves proprietary intellectual property and critical security systems, I cannot share the source code. However, I have documented the **architecture, challenges, and solutions** below:
 
-### 📌 Flask CSV Reports
-Aplicação backend para leitura e geração de relatórios em CSV.  
-✔ Rotas Flask  
-✔ Manipulação de dados  
-✔ Automação de relatórios
+#### 1️⃣ [Sentrio: Edge AI Surveillance System](./docs/sentrio-case-study.md)
+* **The Challenge:** Automating threat detection in industrial zones without relying on human vigilance.
+* **The Solution:** A microservices-based architecture using **YOLO (Computer Vision)** and **FastAPI** to process RTSP streams in real-time.
+* **Tech:** Python, Docker, OpenCV, PostgreSQL.
 
----
-
-## 📚 Formação
-
-🎓 **Bacharelado em Engenharia da Computação**  
-Universidade Cândido Mendes | 2022 – Presente
+#### 2️⃣ [Large-Scale Critical Monitoring (CCO)](./docs/cco-monitoring.md)
+* **The Challenge:** Managing availability for **400+ distributed assets** (IoT/Cameras) with zero visibility on downtime.
+* **The Solution:** Implementation of a full Observability Stack (Grafana/Prometheus) with automated telegram alerting.
+* **Impact:** Drastic reduction in MTTR (Mean Time to Repair).
 
 ---
 
-## ✅ Certificações
-
-- Python do Básico ao Avançado – Udemy  
-- Junior Cybersecurity Analyst – Cisco  
-- Administrando Banco de Dados – Fundação Bradesco  
-- AI-900 – Fundamentos de IA no Azure  
-- Aplicações Mobile com Android Studio – Fundação Bradesco  
-- Inteligência Artificial e Cultura Digital – Fundação Bradesco  
-- Power BI Express – Simplifica
+### 🎓 Certifications
+* **Azure AI Fundamentals (AI-900)** - Microsoft
+* **Cybersecurity Analyst Career Path** - Cisco
+* **Database Administration** - Fundação Bradesco
 
 ---
-
-## 🌎 Idiomas
-
-- 🇬🇧 Inglês – Intermediário (cursando)  
-- 🇪🇸 Espanhol – Básico
-
----
-
-## 📬 Onde me encontrar
-
-📌 **LinkedIn:** [diogo-carvalho81](https://www.linkedin.com/in/diogo-carvalho81/)  
-💻 **GitHub:** [diogocarvalhocrf](https://github.com/diogocarvalhocrf)  
-📧 **E-mail:** diogocarvalhocrf@outlook.com
-
----
-
-💡 _Atualmente em transição para Desenvolvimento Backend e sempre aberto a colaborar em projetos Python!_
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](SEU_LINK_DO_LINKEDIN)
