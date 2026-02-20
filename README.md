@@ -37,7 +37,7 @@ Currently working with monitoring and reliability of 400+ distributed critical a
 
 ## 📂 Engineering Case Studies
 
-### 1️⃣ Sentrio – Edge AI Monitoring System
+### 1️⃣ Sentrio - Edge NVR Core
 **Problem:** Need for automated monitoring in environments with limited connectivity.  
 **Solution:** Designed a containerized microservices architecture using YOLO (Computer Vision) and FastAPI to process RTSP streams locally (Edge-first approach).  
 **Technologies:** Python, Docker, OpenCV.  
