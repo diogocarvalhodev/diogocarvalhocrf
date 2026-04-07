@@ -80,8 +80,6 @@ Centraliza o ciclo de vida de ocorrências, melhorando rastreabilidade e organiz
 
 **Stack**
 Python • FastAPI • React • Next.js • PostgreSQL • Docker
-
-🔗 https://github.com/diogocarvalhodev/nexocase
 ---
 
 # 🧠 Systems Perspective
