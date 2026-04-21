@@ -33,7 +33,7 @@ Custom observability platform using Prometheus exporters.
 * Grafana dashboards
 * Focus on mission-critical environments
 
-### Sentrio — Intelligent Detection System
+### SentinelEdge Security Monitoring
 
 Edge-based object detection with real-time alerts.
 
